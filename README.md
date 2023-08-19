@@ -4,7 +4,7 @@
    <img 
       src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
       alt="Total code time"
-      height="160"
+      height="20"
       />
    </a>
 
@@ -12,7 +12,7 @@
    <img 
       src="https://api.andrieiborodash.repl.co/weather/pskov"
       alt="Weather"
-      height="20"
+      height="160"
       />
    </a>
 
