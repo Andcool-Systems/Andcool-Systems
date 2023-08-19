@@ -1,12 +1,12 @@
 <p align="center">
 
-   <h3 href="#">
+   <a href="#">
    <img 
       src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
       alt="Total code time"
       height="20"
       />
-   </h3>
+   </a>
 
 
 
