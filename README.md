@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg)](https://wakatime.com/@391a38bf-e366-4a08-8107-7e6a23ad440a)
+
 <p align="center">
    <a href="#">
    <img 
@@ -13,5 +13,9 @@
       alt="GitHub Top Langs Stats"
       height="160"
       />
+   </a>
+
+   <a href="#">
+      [![wakatime](https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg)](https://wakatime.com/@391a38bf-e366-4a08-8107-7e6a23ad440a)
    </a>
 </p>
