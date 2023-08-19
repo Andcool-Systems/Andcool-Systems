@@ -1,7 +1,7 @@
 <p align="center">
 
    <a href="#">
-      <h2>Total code time</h2>
+      <a>Total code time</a>
    </a>
 
    <a href="#">
