@@ -8,6 +8,14 @@
       />
    </a>
 
+   <a href="#">
+   <img 
+      src="https://api.andrieiborodash.repl.co/weather/pskov"
+      alt="Weather"
+      height="20"
+      />
+   </a>
+
 
 
 </p>
