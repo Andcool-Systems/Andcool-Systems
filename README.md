@@ -1,17 +1,13 @@
 <p align="center">
-
-
    <a href="#">
    <img 
-      src="https://api.andrieiborodash.repl.co/weather/pskov"
+      src="https://api.andrieiborodash.repl.co/weather?place=pskov"
       alt="Weather"
       height="145"
       />
    </a>
-
-
-
 </p>
+
 <p align="center">
    <a href="#">
    <img 
