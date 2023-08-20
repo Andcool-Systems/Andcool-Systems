@@ -3,8 +3,7 @@
    <img 
       src="https://api.andrieiborodash.repl.co/weather?place=pskov"
       alt="Weather"
-      
-      />
+      /img>
    </a>
 </p>
 
