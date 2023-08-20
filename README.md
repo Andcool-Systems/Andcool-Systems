@@ -3,6 +3,7 @@
    <img 
       src="https://api.andrieiborodash.repl.co/weather?place=pskov"
       alt="Weather"
+      href="https://github.com/Andcool-Systems/weather-widget-api"
       />
    </a>
 </p>
