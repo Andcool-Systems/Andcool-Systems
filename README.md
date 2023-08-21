@@ -1,6 +1,11 @@
 <p align="center">
-   [![Weather](link to image on GH)]("https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov")
-   
+   !['Example Rig Presets'](https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov?v_DATE)
+   <a href="https://github.com/Andcool-Systems/weather-widget-api">
+   <img 
+      src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov"
+      alt="Weather"
+      /img>
+   </a>
 </p>
 
 <p align="center">
