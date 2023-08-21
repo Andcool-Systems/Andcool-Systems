@@ -25,6 +25,3 @@
 
 </p>
 
-<script>
-   console.log("aaa")
-</script>
