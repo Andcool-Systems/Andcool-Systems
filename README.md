@@ -1,8 +1,7 @@
 <p align="center">
-   !['Example Rig Presets'](https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov?v_DATE)
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
-      src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov"
+      src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov?" + v_DATE
       alt="Weather"
       /img>
    </a>
