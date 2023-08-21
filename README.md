@@ -1,7 +1,7 @@
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
-      src="https://00a865a7-a6bc-43b8-bb4b-b5db1c5c0163.id.repl.co/weather?place=pskov"
+      src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov"
       alt="Weather"
       /img>
    </a>
