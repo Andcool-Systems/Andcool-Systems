@@ -23,5 +23,8 @@
       /img>
    </a>
 
-   
 </p>
+
+<script>
+   console.log("aaa")
+</script>
