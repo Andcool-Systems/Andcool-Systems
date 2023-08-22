@@ -1,8 +1,7 @@
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
-      src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov"
-      data-canonical-src="https://functions.yandexcloud.net/d4es4esmehdrbele9un8?place=pskov"
+      src="https://weather.wavycat.ru/?place=andcool"
       alt="Weather"
       /img>
    </a>
