@@ -17,7 +17,7 @@
    </a>
    <a href="#">
    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andcool-Systems&layout=compact&border_color=30363d&bg_color=0d1117&text_color=eef2ff&title_color=818cf8&border_radius=4"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andcool-Systems&layout=compact&border_color=30363d&bg_color=0d1117&text_color=eef2ff&title_color=818cf8&border_radius=4&count_private=true"
       alt="GitHub Top Langs Stats"
       height="160"
       /img>
