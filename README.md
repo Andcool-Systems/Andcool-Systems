@@ -26,7 +26,7 @@
 <p align="center">
    <a href="https://wakatime.com/@AndcoolSystems">
    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=AndcoolSystems&theme=codeSTACKr" 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=AndcoolSystems&border_color=30363d&bg_color=0d1117&text_color=eef2ff&title_color=818cf8&count_private=true&border_radius=4" 
       alt="WakaTime Account Stats"
       /img>
    </a>
