@@ -1,7 +1,7 @@
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
-      src="https://clck.ru/35dfFV"
+      src="https://weather.wavycat.ru/api?place=pskov&timezone=gmt3&language=ru"
       alt="Weather"
       /img>
    </a>
