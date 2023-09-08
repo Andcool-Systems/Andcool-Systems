@@ -24,5 +24,10 @@
    </a>
 </p>
 <p align="center">
-   [![AndcoolSystems wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndcoolSystems&theme=codeSTACKr)](https://wakatime.com/@AndcoolSystems) </br>
+   <a href="https://wakatime.com/@AndcoolSystems">
+   <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=AndcoolSystems&theme=codeSTACKr" 
+      alt="WakaTime Account Stats"
+      /img>
+   </a>
 </p>
