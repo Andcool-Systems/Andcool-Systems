@@ -5,7 +5,9 @@
       alt="wakatime stats"
       /img>
    </a>
-   
+</p>
+
+<p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
       src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=ru"
