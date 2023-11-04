@@ -1,7 +1,7 @@
 <p align="center">
    <a href="https://wakatime.com/@AndcoolSystems">
    <img 
-      src="[https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=ru](https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg)"
+      src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
       alt="wakatime stats"
       /img>
    </a>
