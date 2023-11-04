@@ -1,4 +1,5 @@
 <p align="center">
+   [![wakatime](https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg)](https://wakatime.com/@391a38bf-e366-4a08-8107-7e6a23ad440a)
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
       src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=ru"
