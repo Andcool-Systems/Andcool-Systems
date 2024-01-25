@@ -34,5 +34,9 @@ I'm a Python and C++ backend developer
       /img>
    </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,processing,visualstudio,vscode,fastapi,figma,firebase,cloudflare,html,css,js,ts,nodejs,react,prisma,linux,discord,stackoverflow,bots,git,github,arduino,raspberrypi,bash,ai,ps,postman,powershell,replit" />
+  </a>
+</p>
 
