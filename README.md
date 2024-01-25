@@ -3,7 +3,7 @@ I'm a Python and C++ backend developer
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
-      src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=ru"
+      src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=en"
       alt="Some errors"
       /img>
    </a>
