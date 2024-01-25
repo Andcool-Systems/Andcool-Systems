@@ -10,6 +10,15 @@ I'm a Python and C++ backend developer
 </p>
 
 <p align="center">
+   <a href="https://wakatime.com/@AndcoolSystems">
+   <img 
+      src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
+      alt="wakatime stats"
+      /img>
+   </a>
+</p>
+
+<p align="center">
    <a href="#">
    <img 
       src="https://github-readme-stats.vercel.app/api?username=Andcool-Systems&show_icons=true&border_color=30363d&bg_color=0d1117&text_color=eef2ff&title_color=818cf8&count_private=true&border_radius=4" 
@@ -26,12 +35,4 @@ I'm a Python and C++ backend developer
    </a>
 </p>
 
-<p align="center">
-   <a href="https://wakatime.com/@AndcoolSystems">
-   <img 
-      src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
-      alt="wakatime stats"
-      /img>
-   </a>
-</p>
 
