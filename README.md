@@ -1,6 +1,6 @@
 # Hey There! 👋
-I'm a Python and C++ backend developer
-Weather in my city: <br>
+I'm a Python and C++ backend developer <br>
+Weather in my city:
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
