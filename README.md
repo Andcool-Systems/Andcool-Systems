@@ -11,6 +11,12 @@ Weather in my city:
 </p>
 
 <p align="center">
+   <a>
+   <img src="https://streak-stats.demolab.com?user=Andcool-Systems&theme=transparent" alt="GitHub Streak" />
+   </a>
+</p>
+
+<p align="center">
    <a href="https://wakatime.com/@AndcoolSystems">
    <img 
       src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
