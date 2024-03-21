@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm a Python and React fullstack developer <br>
+I'm a Python and TypeScript fullstack developer <br>
 Weather in my city:
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
