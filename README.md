@@ -1,19 +1,21 @@
 # Hey There! 👋
-I'm a Python and TypeScript fullstack developer. [My site](https://andcool.ru)  
-Weather in my city:
+
 <p align="center">
-   <a href="https://wakatime.com/@AndcoolSystems">
-   <a href="https://github.com/Andcool-Systems/weather-widget-api">
-   <img 
-      src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=en"
-      alt="Some errors"
-      /img>
-   </a>
+   <b>I'm a Python and TypeScript fullstack developer. <a href="https://andcool.ru">My site</a></b>
 </p>
 
 <p align="center">
    <a>
    <img src="https://streak-stats.demolab.com?user=Andcool-Systems&theme=transparent&border=22282E" alt="GitHub Streak" />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/Andcool-Systems/weather-widget-api">
+      <img src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=en" alt="Some errors" />
+   </a>
+   <a href="https://github.com/Andcool-Systems/Andcool-Activity">
+      <img src="https://activity.andcool.ru/t9mdtk/widget" alt="Some errors" />
    </a>
 </p>
 
