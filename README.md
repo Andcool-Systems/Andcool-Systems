@@ -15,7 +15,7 @@
       <img src="https://weather.andcool.ru/api?place=pskov&timezone=gmt3&language=en" alt="Some errors" />
    </a>
    <a href="https://github.com/Andcool-Systems/Andcool-Activity">
-      <img src="https://activity.andcool.ru/t9mdtk/widget" alt="Some errors" />
+      <img src="https://activity.andcool.ru/t9mdtk/widget?order=last" alt="Some errors" />
    </a>
 </p>
 
