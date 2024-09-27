@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-   <img src="https://gh-stats.andcool.ru/api/embed/Andcool-Systems?panels=userstatistics,toprepositories,toplanguages,commitgraph&bgcolor=0d1117&titlecolor=ffffff&textcolor=ffffff" />
+   <img src="https://gh-stats.andcool.ru/api/embed/Andcool-Systems?panels=userstatistics,toprepositories,toplanguages,commitgraph&bgcolor=0d1117&titlecolor=ffffff&textcolor=ffffff&color=006aff" />
 </p>
 
 <p align="center">
